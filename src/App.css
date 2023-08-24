@@ -1,0 +1,200 @@
+.ieng{
+  width: 7%;
+  height: 250%;
+  padding-left: 220px;
+}
+
+.C{
+  padding-left: 150px;
+}
+.cen{
+display:table-header-group;
+}
+.id{
+  padding-left: 320px;
+  padding-right: 210px;
+}
+.name{
+padding-right: 150px;
+}
+.eml{
+padding-right: 130px;
+}
+
+.cs{
+  padding-left: 100px;
+  color: red;
+}
+.i{
+margin-left: 300px;
+display: inline-block;
+color: blue;
+}
+.byn{
+  color: blue;
+
+  padding: 0%;
+}
+.y{
+padding-left: 180px;
+
+}
+.H{
+  padding-left: 200px;
+}
+.e{
+  padding-left: 130px;
+}
+.w{
+  padding-left: 120px;
+}
+.o{
+padding-left: 100px;
+}
+.m{
+  padding-left: 180px;
+
+}
+.n{
+  padding-left: 200px;
+
+}
+.l{
+  padding-left: 200px;
+
+}
+.k{
+  padding-left: 200px;
+
+}
+
+.z{
+  padding-left: 450px;
+  
+  }
+.image{
+  display: left;
+width: 10%;
+padding: 10px;
+left: 0;
+}
+
+.btns{
+  text-align: left;
+  display: grid;
+
+
+}
+.first{
+  text-align: left;
+  display: inline-flex;
+}
+.btn-1{
+
+    text-align: left;
+  width: 6%;
+}
+.btn-2{
+
+  text-align: left;
+width: 6%;
+}.btn-3{
+
+  text-align: left;
+width: 6%;
+}.btn-4{
+
+  text-align: left;
+width: 6%;
+}
+.btn-5{
+
+  text-align: left;
+width: 6%;
+}
+.btn-6{
+
+  text-align: left;
+width: 2%;
+padding-right: 20px;
+padding-left: 20px;
+}
+.h-2{
+  padding-right: 100px;
+
+}
+.ion{
+  width: 10%;
+  height: 150%;
+  padding-left: 350px;
+  margin-top: 10px;
+}
+.h{
+text-align: left;
+padding-right: 100px;
+color: blue;
+}
+.s{
+  color: blue;
+}
+.h-2{
+  color: blue;
+}
+.menu-1{
+  text-align: left;
+  display: inline-flex;
+}
+.menu-2{
+  text-align: left;
+  display: inline-flex;
+}
+.menu-3{
+  text-align: left;
+  display: inline-flex;
+}
+.menu-4{
+  text-align: left;
+  display: inline-flex;
+}
+.menu-5{
+  text-align: left;
+  display: inline-flex;
+}
+.R{
+  padding-left: 130px;
+  color: green;
+
+}
+.r{
+  padding-left: 110px;
+  color: green;
+
+}
+.may{
+  color: green;
+}
+.in{
+  padding-left: 100px;
+  color: green;
+}
+.menu2{
+color: blue;
+}
+.menu3{
+color: blue;
+}
+.help{
+  color: blue;
+  }
+.ig{
+  width: 5%;
+  padding-left: 130px;
+}
+.set{
+  color: blue;
+}
+.center{
+  display: grid;
+  text-align: center;
+  top: 0%;
+}
